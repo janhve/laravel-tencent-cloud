@@ -13,7 +13,7 @@ This is a tencent cloud expansion for the laravel
 ## Installation
 
 ```bash
-composer require larva/laravel-tencent-cloud
+composer require janhve/laravel-tencent-cloud
 ```
 
 ## for Laravel
